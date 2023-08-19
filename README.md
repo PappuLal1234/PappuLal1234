@@ -9,7 +9,8 @@
 
 - 📫 How to reach me **prtushmewara1999@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pappulal-mewara-6b0124207/](https://www.linkedin.com/in/pappulal-mewara-6b0124207/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/pappulal-mewara-6b0124207/](https://www.linkedin.com/in/pappulal-mewara/)
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
