@@ -1,5 +1,7 @@
+<center>
+  <a href="https://www.linkedin.com/in/pappulal-mewara/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter"></a></center>
 <h1 align="center">Hi 👋, I'm Pappu Lal</h1>
-<h3 align="center">Java Full Stack Developer</h3>
+<h3 align="center">As an Aspiring Full stack developer . I thrive on turning ideas into elegant and efficient code. Through my journey in the world of coding, I've crafted some exciting projects that I'd love to share with you.</h3>
 
 - 🔭 I’m currently working on [Blogging App](https://github.com/PappuLal1234/Blogging-app.git)
 
@@ -8,9 +10,30 @@
 - 💬 Ask me about **HTML,CSS,BootStrap,JavaScript,JQuery,SQL,MySQL,Java 8,Spring Framework,Spring boot,JWT,Spring Security,Hibernate,React,React-Redux,Postman,RestApis,Maven,Eclipse,VsCode.**
 
 - 📫 How to reach me **prtushmewara1999@gmail.com**
+- 📝 <a href="https://www.linkedin.com/in/pappulal-mewara/overlay/1635537399938/single-media-viewer/?profileId=ACoAADSFfOQBsRmRQIIOqamWbWOWwPszQrpDWRw" 
+ target="_blank">Resume</a>
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pappulal-mewara-6b0124207/](https://www.linkedin.com/in/pappulal-mewara/)
-- 
+- 📄 <span> <a href="https://www.linkedin.com/in/pappulal-mewara/" target="_blank">Know about my experiences <img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="25px" width="25px" alt="Twitter"></a></span> 
+-  ⚡ Fun fact: I love <Strong>photography, cooking, and coding.</Strong>
+-  🎸 Would love: To know how to play guitar
+  
+  
+## Projects
+
+### [Blogging API](https://github.com/PappuLal1234/Blogging-app.git)
+
+- *Overview:* A powerful API for bloggers to manage and publish articles seamlessly.
+- *Goals:* Provide an intuitive interface for content creation, storage, and retrieval.
+- *Technologies:* HTML,CSS,BootStrap,JavaScript,JQuery,SQL,MySQL,Java 8,Spring Framework,Spring boot,JWT,Spring Security,Hibernate,React,React-Redux,Postman,RestApis,Maven,Eclipse,VsCode .
+- *Usage:* Detailed instructions can be found in the repository's README file.
+ 
+### [Expense Tracker](https://github.com/PappuLal1234/Blogging-app.git)
+
+- *Overview:* A user-friendly application to track and manage personal expenses.
+- *Goals:* Simplify expense management and budget tracking for individuals.
+- *Technologies:* Java 8,Spring Framework,Spring boot,JWT,Spring Security,Hibernate,React,React-Redux,Postman,RestApis,Maven,Eclipse,VsCode.
+- *Usage:* Check out the repository's README for installation and usage instructions.
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
