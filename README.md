@@ -1,6 +1,6 @@
 <center>
   <a href="https://www.linkedin.com/in/pappulal-mewara/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter"></a></center>
-<h1 align="center">Hi 👋, I'm Pappu Lal</h1>
+<h1 align="center">Hi 👋, I'm Pappu Lal Mewara</h1>
 <h3 align="center">As an Aspiring Full stack developer . I thrive on turning ideas into elegant and efficient code. Through my journey in the world of coding, I've crafted some exciting projects that I'd love to share with you.</h3>
 
 - 🔭 I’m currently working on [Blogging App](https://github.com/PappuLal1234/Blogging-app.git)
